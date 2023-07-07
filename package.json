@@ -67,7 +67,7 @@
     "react-test-renderer": "16.13.1",
     "rimraf": "3.0.2",
     "simpl-schema": "^1.0.0 || ^0.0.4",
-    "stylelint": "13.7.0",
+    "stylelint": "15.10.1",
     "stylelint-config-prettier": "8.0.2",
     "stylelint-prettier": "1.1.2",
     "ts-jest": "26.3.0",
